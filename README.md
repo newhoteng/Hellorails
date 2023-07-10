@@ -23,5 +23,8 @@ Things you may want to cover:
 
 * ...
 
-* To create a new rails app
+* To create a new rails app with postgresql
   - rails new Project --database=postgresql
+
+* To update credentials
+  - EDITOR="code --wait" rails credentials:edit
