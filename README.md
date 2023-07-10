@@ -22,3 +22,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+* To create a new rails app
+  - rails new Project --database=postgresql
